@@ -5,28 +5,29 @@ Sebuah website yang akan memberikan tips-tips berguna untuk membantu masyarakat 
 
 ## Library/Framework
 
-- Vue 3 : UI Framework untuk Front-end website.
-- PrimeVue : UI Component Library membantu desain dari website.
-- Vue 3 Markdown IT : Component Library untuk render markdown dokumen.
-- Axios : Request API.
-- Vue CLI 3 : CLI untuk mempermudah development website berbasis Vue.
+- [Vue 3]() : UI Framework untuk Front-end website (Lisensi MIT).
+- [PrimeVue](https://www.primefaces.org/primevue/) : UI Component Library membantu desain dari website (Lisensi MIT).
+- [Vue 3 Markdown IT](https://github.com/JanGuillermo/vue3-markdown-it) : Component Library untuk render markdown dokumen (Lisensi MIT).
+- [Axios](https://axios-http.com/) : Promise klien HTTP berbasis untuk browser dan node.js (Lisensi MIT).
+- [Vue CLI 3](https://cli.vuejs.org) : CLI untuk mempermudah development website berbasis Vue.
 
 ## Third-Party
 
 - Firebase: Mengelola database untuk website.
 
+## Tutorial website 
   
 
 ## FAQ
  
 > Apakah saya boleh untuk mengambil atau memodifikasi code dari repository ini?
 
-Tentu saja, karena lisensi yang digunakan adalah lisensi MIT dan ini bersifat open source, jadi anda dipersilahkan mengambil ataupun memodifikasinya. Lebih lanjut lihat [disini]().
+Tentu saja, karena lisensi yang digunakan adalah lisensi MIT dan ini bersifat open source, jadi anda dipersilahkan mengambil ataupun memodifikasinya. Lebih lanjut lihat [disini](https://github.com/herlandroando/cara-instan-web/blob/main/LICENSE).
 
 > Saya ingin membantu dalam proses memberikan tips-tips ke masyarakat atau ingin memberikan saran kepada anda. Apakah diperbolehkan di website ini?
 
-Kami sangat terbuka akan hal itu dan kami sangat senang jika anda membagikannya ke website ini. Bisa langsung lewat Open Issue dengan tag **Tips**. Untuk saran, sama namun tag yang digunakan **Saran**.
+Kami sangat terbuka akan hal itu dan kami sangat senang jika anda membagikannya ke website ini. Bisa langsung lewat Open Issue dan Pull Request dengan tag **Tips** dengan format [berikut](). Untuk saran, cukup Open Issue namun tag yang digunakan adalah **Saran**.
 
 > Saya bingung ketika ingin memodifikasi code dari website ini.
 
-Saya sangat terbuka akan hal pertanyaan. Anda bisa langsung tanya kepada saya lewat media sosial saya di halaman **Tentang Kami** atau [Link Berikut]()
+Saya sangat terbuka akan hal pertanyaan. Anda bisa langsung tanya kepada saya lewat media sosial saya di halaman **Tentang Kami** atau [Link Berikut](https://github.com/herlandroando/cara-instan-web/blob/main/public/markdown/tentang-kami.md)
