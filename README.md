@@ -5,7 +5,7 @@ Sebuah website yang akan memberikan tips-tips berguna untuk membantu masyarakat 
 
 ## Library/Framework
 
-- [Vue 3]() : UI Framework untuk Front-end website (Lisensi MIT).
+- [Vue 3](https://v3.vuejs.org) : UI Framework untuk Front-end website (Lisensi MIT).
 - [PrimeVue](https://www.primefaces.org/primevue/) : UI Component Library membantu desain dari website (Lisensi MIT).
 - [Vue 3 Markdown IT](https://github.com/JanGuillermo/vue3-markdown-it) : Component Library untuk render markdown dokumen (Lisensi MIT).
 - [Axios](https://axios-http.com/) : Promise klien HTTP berbasis untuk browser dan node.js (Lisensi MIT).
@@ -13,7 +13,7 @@ Sebuah website yang akan memberikan tips-tips berguna untuk membantu masyarakat 
 
 ## Third-Party
 
-- Firebase: Mengelola database untuk website.
+- [Firebase](https://firebase.google.com) : Mengelola database untuk website.
 
 ## Tutorial website 
   
