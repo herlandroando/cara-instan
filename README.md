@@ -30,4 +30,4 @@ Kami sangat terbuka akan hal itu dan kami sangat senang jika anda membagikannya 
 
 > Saya bingung ketika ingin memodifikasi code dari website ini.
 
-Saya sangat terbuka akan hal pertanyaan. Anda bisa langsung tanya kepada saya lewat media sosial saya di halaman **Tentang Kami** atau [Link Berikut](https://github.com/herlandroando/cara-instan-web/blob/main/public/markdown/tentang-kami.md)
+Saya (Herlandro Tribiakto) sangat terbuka akan hal pertanyaan. Anda bisa langsung tanya kepada saya lewat media sosial saya di halaman **Tentang Kami** atau [Link Berikut](https://github.com/herlandroando/cara-instan-web/blob/main/public/markdown/tentang-kami.md)
